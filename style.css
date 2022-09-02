@@ -1,0 +1,27 @@
+.panda-bg-warning{
+    background-color: #fceae8;
+}
+.cate-mar{
+    margin-top:  61px; ;
+}
+.bg-watch{
+    background-image: linear-gradient(45deg, #FF9C35 ,#FFD019);
+}
+.bg-bag{
+    background-image: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+}
+.bg-shoes{
+    background-image: linear-gradient(170.41deg, #4289FF -10.89%, #3F07F8 92.77%);
+}
+.cate-img{
+    width: 100px;
+}
+.btn-color{
+    background-color: black;
+}
+.btn-bg{
+    background-image: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+}
+.bg-footer{
+    background-color: #fcd6d3;
+}
